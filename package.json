@@ -1,1 +1,10 @@
 
+{
+  "name": "lumax-bot",
+  "version": "0.1.0",
+  "main": "index.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "dotenv": "^16.3.1"
+  }
+}
